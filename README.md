@@ -1,1 +1,2 @@
 # Strong-Password-Generator-App
+This project is a simple GUI-based strong password generator built using Python and Tkinter. It allows users to generate a random password of any desired length using ASCII characters. The app features an intuitive interface where users can input the password length and copy the generated password to the clipboard with ease. The password generation is based on random ASCII character selection for enhanced security. Ideal for users looking to create secure passwords quickly and efficiently.
